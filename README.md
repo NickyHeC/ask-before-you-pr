@@ -32,9 +32,9 @@ Codex, for one repository: clone it into that repository's `.agents/skills/` ins
 
 In my own pull requests from August to October, the share closed unmerged fell from 62% to 14%, and the share of my changed lines that never get merged from 47% to 3%.
 
-The drop held after Sep 10th, when running the list of questions became a required and routine part of my coding process.
+Starting Sep 10th, running the list of questions became an integral part of my coding process, and I saw significant improvements in reducing wasted effort and saving time.
 
-I also ran 3 studies on other OSS projects, and found that these questions aren't significant in predicting which pull requests maintainers merge. Thus, they are a check you run on your own change, to save effort, time, and tokens. The numbers, the studies and their data are in [eval/](./eval/).
+I also ran 3 studies on other OSS projects, and found that these questions aren't significant in predicting which pull requests maintainers merge. Thus, they are more so a check you run on your own change, rather than a criterion for other people. The numbers, the studies and their data are in [eval/](./eval/).
 
 ## Where it comes from
 
