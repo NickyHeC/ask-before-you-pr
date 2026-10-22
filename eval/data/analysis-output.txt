@@ -1,0 +1,17 @@
+Run 1, Godot (all 13 questions)
+  all 13, godotengine/godot                    rejected 26/43 = 60.5%  merged 21/40 = 52.5%  gap +8.0 pp [-12.9, +27.9]  p = 0.51  dropped 17  does not meet the bar
+
+Run 2, three projects with no bots or policies (all 13 questions)
+  all 13, excalidraw/excalidraw                rejected+stale 71/96 = 74.0%  merged 23/29 = 79.3%  gap -5.4 pp [-19.8, +14.0]  p = 0.63  dropped 7  does not meet the bar
+  all 13, helix-editor/helix                   rejected+stale 77/89 = 86.5%  merged 38/45 = 84.4%  gap +2.1 pp [-9.6, +16.4]  p = 0.80  dropped 10  does not meet the bar
+  all 13, ollama/ollama                        rejected+stale 65/90 = 72.2%  merged 9/18 = 50.0%  gap +22.2 pp [-1.0, +44.7]  p = 0.09  dropped 16  does not meet the bar
+  all 13, pooled                               rejected+stale 213/275 = 77.5%  merged 70/92 = 76.1%  gap +1.4 pp [-7.9, +12.0]  p = 0.78  dropped 33  does not meet the bar
+  all 13, pooled, rejected only                rejected 107/136 = 78.7%  merged 70/92 = 76.1%  gap +2.6 pp [-8.1, +14.0]  p = 0.75  dropped 23  does not meet the bar
+  all 13, pooled, stale only                   stale 106/139 = 76.3%  merged 70/92 = 76.1%  gap +0.2 pp [-10.6, +11.7]  p = 1.00  dropped 25  does not meet the bar
+
+Run 3, pre-registered: the ten required questions
+  required, nestjs/nest                        rejected 16/36 = 44.4%  merged 14/48 = 29.2%  gap +15.3 pp [-5.2, +34.6]  p = 0.17  dropped 5  does not meet the bar
+  required, sveltejs/kit                       rejected 15/39 = 38.5%  merged 21/44 = 47.7%  gap -9.3 pp [-29.0, +11.7]  p = 0.51  dropped 11  does not meet the bar
+  required, vuejs/core                         rejected 15/41 = 36.6%  merged 11/47 = 23.4%  gap +13.2 pp [-5.8, +31.3]  p = 0.24  dropped 12  does not meet the bar
+  required, pooled                             rejected 46/116 = 39.7%  merged 46/139 = 33.1%  gap +6.6 pp [-5.2, +18.2]  p = 0.30  dropped 28  does not meet the bar
+  all 13, pooled (for comparison)              rejected 68/113 = 60.2%  merged 65/115 = 56.5%  gap +3.7 pp [-9.0, +16.2]  p = 0.59  dropped 55  does not meet the bar
